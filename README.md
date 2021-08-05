@@ -1,7 +1,16 @@
-Criei esse repositório para expor quaisquer projetinhos e experiências que tive desde que ingressei no mundo da computação. Meu nome é Caio Henrique, tenho 27 anos e sou Tecnólogo em Sistemas de Computação pela UFF. Graduei-me em maio de 2019, mas ainda não atuei profissionalmente na minha área de formação, minha experiência com a computação se restringiu à minha graduação e a uns poucos cursos online.
+## :vulcan_salute:Hello World! My name is Caio Henrique...
 
-Infelizmente só fui conhecer o Git/GitHub agora e acho pouco provável que eu encontre algo que seja relevante de se compartilhar relativo à graduação e aos cursos online, então, por agora esse repositório vai estar um pouco "sem graça". Atualmente estou explorando os cursos da Digital Innovation One, graças a ela que fui conhecer o Git/GitHub, até já tinha ouvido os nomes, mas achava que fossem simplesmente um fórum, e não uma plataforma onde se torna possível compartilhar suas experiências, seu desenvolvimento, seus conhecimentos, suas produções... é quase como se eu estivesse me expondo, penso que o Git/GitHub pode permitir que um terceiro conheça as minhas competências... Aprendo com facilidade e meu desempenho acadêmico sempre foi acima da média, mas, devido minha inexperiência profissional, tenho uma certa insegurança com relação à ideia de me candidatar a uma vaga de emprego na área de TI. Espero que esta plataforma me ajude com isso, que alguém reconheça meu potencial e me dê uma oportunidade.
+**​ :mortar_board: Technologist in Computer Systems at Universidade Federal Fluminense :mortar_board: **
 
-Se eu encontrar algo do passado na nuvem ou em algum dos meus dispositivos, imediatamente irei disponibilizá-los aqui. Falo isso para não precisar atualizar o parágrafo anterior só porque encontrei uma coisinha ou outra. rs
+**:books: Exploring the courses from [Digital Innovation One]([Cursos grátis de tecnologia e inovação | Digital Innovation One](https://digitalinnovation.one/)) :books:  **
 
-Sou Tecnólogo em Sistemas de Computação pela UFF, através do CEDERJ, um consórcio que gerencia a oferta de cursos EAD das federais e estaduais do estado do Rio de Janeiro. Talvez não seja muito relevante falar sobre isso, mas, na minha inexperiência, penso que expor que minha formação se deu à distância talvez possa sinalizar minha disciplina, meu comprometimento e uma certa "independência".
+[<img src="https://images.squarespace-cdn.com/content/v1/504eb270e4b07d0f5698991c/1384968611741-AZNM0P887GMX70AKE4DD/Linkedin.png?format=1000w" alt="img" style="zoom:8%;" />]([(2) Caio Henrique de Souza da Cruz | LinkedIn](https://www.linkedin.com/in/caiohscruz/))
+
+I have a degree in Computer Systems, but I haven't had the opportunity to work in the area yet. For a long time I was used to working only in the administrative area of the government, mainly because of "stability", but that doesn't suit me anymore. I miss the challenges and the excitement involved in solving problems, the lack of autonomy in the public sector, the rigid procedures and the extremely monotonous routine are doing me a lot of harm.
+
+During my studies, I had contact with several technologies and languages, I would highlight PHP, PHPMyAdmin, Java, MySQL, HTML5, CSS, JavaScript and Paschal. Now, thinking about work in the IT area, I can't think of what to focus on yet. 
+
+I would be immensely grateful if you, who work in the field, could send me a message talking briefly about what you do, about the languages you use, about strategies to enter the job market. I feel very insecure, I'm used to conquering things through exams, *I go there, take a test and it's over*. This message can help me find a North, it can quiet my little heart and clear my mind.
+
+
+
