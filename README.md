@@ -13,4 +13,8 @@ During my studies, I had contact with several technologies and languages, I woul
 I would be immensely grateful if you, who work in the field, could send me a message talking briefly about what you do, about the languages you use, about strategies to enter the job market. I feel very insecure, I'm used to conquering things through exams, *I go there, take a test and it's over*. This message can help me find a North, it can quiet my little heart and clear my mind.
 
 
+### Check out
+
+- [Digital Innovation One - programming challenges](https://github.com/caiohscruz/Indices/tree/master/Desafios%20DIO#readme)
+
 
