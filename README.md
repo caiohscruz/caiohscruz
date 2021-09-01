@@ -15,6 +15,10 @@ I would be immensely grateful if you, who work in the field, could send me a mes
 
 ### Check out
 
+- [First Projects](https://github.com/caiohscruz/Indices/tree/master/First%20Projects#readme)
+
+- [Study drafts](https://github.com/caiohscruz/Indices/tree/master/Rascunhos#readme)
+
 - [Digital Innovation One - programming challenges](https://github.com/caiohscruz/Indices/tree/master/Desafios%20DIO#readme)
 
 
