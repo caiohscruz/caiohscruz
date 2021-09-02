@@ -2,7 +2,7 @@
 
  :mortar_board: **Technologist in Computer Systems at Universidade Federal Fluminense**:mortar_board: 
 
-:books: **Exploring the courses from [Digital Innovation One](https://digitalinnovation.one/) ​**:books:  
+:books: **I left the courses from [Digital Innovation One](https://digitalinnovation.one/) and [Rocketseat](https://rocketseat.com.br/) a bit to focus on a [NodeJS training](https://www.udemy.com/course/formacao-nodejs/) course** :books:  
 
 [<img src="https://raw.githubusercontent.com/caiohscruz/caiohscruz/master/img/logo_linkedin.png" />](https://www.linkedin.com/in/caiohscruz/)
 
