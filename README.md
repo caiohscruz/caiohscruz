@@ -2,15 +2,19 @@
 
  :mortar_board: **Technologist in Computer Systems at Universidade Federal Fluminense**:mortar_board: 
 
-:books: **I left the courses from [Digital Innovation One](https://digitalinnovation.one/) and [Rocketseat](https://rocketseat.com.br/) a bit to focus on a [NodeJS training](https://www.udemy.com/course/formacao-nodejs/) course** :books:  
+:books: **I am participating in a FullStack Developer training (100h) by Gama Academy as part of a selection process to Anima Tech. After this over, I want to return to [NodeJS training](https://www.udemy.com/course/formacao-nodejs/) course. I have other courses also to study from Udemy, I left the courses of [Digital Innovation One](https://digitalinnovation.one/) and [Rocketseat](https://rocketseat.com.br/) aside a little for now.** :books:  
 
 [<img src="https://raw.githubusercontent.com/caiohscruz/caiohscruz/master/img/logo_linkedin.png" />](https://www.linkedin.com/in/caiohscruz/)
 
-I have a degree in Computer Systems, but I haven't had the opportunity to work in the area yet. For a long time I was used to working only in the administrative area of the government, mainly because of "stability", but that doesn't suit me anymore. I miss the challenges and the excitement involved in solving problems, the lack of autonomy in the public sector, the rigid procedures and the extremely monotonous routine are doing me a lot of harm.
+I have more than six years of experience in public administration, but none in professional programming yet.
 
-During my studies, I had contact with several technologies and languages, I would highlight PHP, PHPMyAdmin, Java, MySQL, HTML5, CSS, JavaScript and Paschal. Now, thinking about work in the IT area, I can't think of what to focus on yet. 
+The universitary course provideD general bases of operating systems, networks, construction of web pages ( HTML | CSS | Javascript), web programming (PHP), graphical interfaces (Lazarus | Paschal), information modeling, SGBDs (MySQL), POO (Java), software engineering, systems analysis and more.
 
-I would be immensely grateful if you, who work in the field, could send me a message talking briefly about what you do, about the languages you use, about strategies to enter the job market. I feel very insecure, I'm used to conquering things through exams, *I go there, take a test and it's over*. This message can help me find a North, it can quiet my little heart and clear my mind.
+From recent studyies I learned about REST APIs ( Axious | JWT | Cors ), ORM ( Entity - ASP.NET | JPA - JAVA | Sequelize - Javascript ), AJAX, NodeJS ( express | Dotenv | TinyMCE | bcryptjs | slugify | express-session | EJS | html-pdf | fs )
+
+
+
+
 
 
 ### Check out
