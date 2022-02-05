@@ -25,16 +25,21 @@ The universitary course provided general bases of operating systems, networks, c
 From recent studyies I learned about REST APIs ( Axious | JWT | Cors ), ORM ( Entity - ASP.NET | JPA - JAVA | Sequelize - Javascript ), AJAX, NodeJS ( express | Dotenv | TinyMCE | bcryptjs | slugify | express-session | EJS | html-pdf | fs )
 
 
-
-
-
-
 ### Check out
 
 - [First Projects](https://github.com/caiohscruz/Indices/tree/master/First%20Projects#readme)
 
 - [Study drafts](https://github.com/caiohscruz/Indices/tree/master/Rascunhos#readme)
 
-- [Digital Innovation One - programming challenges](https://github.com/caiohscruz/Indices/tree/master/Desafios%20DIO#readme)
+- [Digital Innovation One - programming challenges](https://github.com/caiohscruz/Indices/tree/master/Desafios%20DIO#readme) 
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohscruz&layout=compact&langs_count=10&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+ 
+
+
+
+
 
 
