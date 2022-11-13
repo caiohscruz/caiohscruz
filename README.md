@@ -1,31 +1,41 @@
 ## :vulcan_salute:Hello World! My name is Caio Henrique...
 
- :mortar_board: **Technologist in Computer Systems at Universidade Federal Fluminense**:mortar_board: 
+My history with programming is more than 7 years old.
 
- :briefcase: **Jr Analyst / FullStack Developer at Anima Educação** :briefcase:
- 
- :thought_balloon: I'm studying some possibilities for postgraduate courses, I'm between a course in "Cloud and Edge Computing" and another in "Artificial Intelligence and Data Science". :thought_balloon:
- 
-:facepunch: In the second half of last year, I participated in a Full Stack Developer training (100h) by Gama Academy, the [AnimaTECH](https://animatech.corporate.gama.academy/). Among the contents of the program, I would point out that we were introduced to AspNET Core - with Entity Framework, migrations, Rest API -, to VueJS, to the concepts of DevOps and Tests. After this training, I was selected to work at Ânima Educação. :facepunch:
+In FrontEnd, I started with pure PHP and Javascript, today I have proficiency to work with AngularJs, "the old one", VueJs and Asp.Net Mvc.
 
-:books: **In addition to being thinking about advancing in academic studies, with a postgraduate degree, I am evaluating the options of open courses that I have access to to start in the coming weeks. I stayed away from here because I'm adjusting to the new job, the new routine, the new house and I also got married recently, which adds a little more mental load to process. I was absent from here, but I didn't stop studying, I attended some classes here and there and I also started some readings.** :books:  
+On the backend, I started with Java, today I work comfortably with .Net Core and NodeJs. Entity Framework, LINQ, Express, Sequelize, Knex, Mongoose, Axios, these tools and many others are part of my repertoire.
 
-:v: **Today, if someone asked me to recommend a course, I would recommend the [NodeJS training](https://www.udemy.com/course/formacao-nodejs/) course without thinking twice. I really liked this course, it gave me perspective, I was able to make correlations with what I learned in college and in other free courses. This course works not only with the Backend in NodeJS, it has a presentation to the FrontEnd with VueJS.** :v:
+I've worked with relational and non-relational databases, especially SQL Server, MySql, Oracle and MongoDb.
 
-:cat: I have three cats: Atreus, Vanessinha and Tigrinho :cat:
+I am very familiar with the AWS platform, having experience with services like EC2, S3, Lambda, Route53, load balancing, SQS... I also know about Docker, Kubernetes, CI/CD, Azure Pipelines and so on.
 
-:tada:I like watching animes, playing video games, trekking, dancing at raves, staying in my corner reading and hanging out with friends.:tada:
+:books: I have focused my studies so far to improve myself on design patterns, TDD, architectural patterns and best practices for software development, from Clean Code to software engineering topics, which can be seen in my most recent publications on [Linkedin](https://www.linkedin.com/in/caiohscruz/). :books:
+
+:thought_balloon: I'm starting now, however, to consider directing my studies to prepare myself for Web3.0, I need to deepen my knowledge about the RPC protocol, Websockets, Pub-Sub design pattern and maybe blockchains, among many other things obviously. :thought_balloon:
+
+:mortar_board: I have an Associate Degree in Computer Systems from UFF (2015-2018) and post graduate degree is in my plans, as well as some certifications, but I have other priorities for my budget at the moment. :mortar_board:
+
+The projects I have worked on professionally are private, but some study projects are available here. I occasionally consult them to retrieve some ideas or solutions.
+
+:briefcase: **FullStack Developer at Anima Educação** :briefcase: 
 
 [<img src="https://raw.githubusercontent.com/caiohscruz/caiohscruz/master/img/logo_linkedin.png" />](https://www.linkedin.com/in/caiohscruz/)
 
-I have more than six years of experience in public administration, and I took my first steps as a developer at the end of last year. I had a lot of internal resistance to make this career transition, and now I'm very happy that I had that courage.
+:tada:I like watching animes, playing video games, trekking, dancing at raves, staying in my corner reading and hanging out with friends.:tada:
 
-The universitary course provided general bases of operating systems, networks, construction of web pages ( HTML | CSS | Javascript), web programming (PHP), graphical interfaces (Lazarus | Paschal), information modeling, SGBDs (MySQL), POO (Java), software engineering, systems analysis and more.
+:cat: I have three cats: Atreus, Vanessinha and Tigrinho :cat:
 
-From recent studyies I learned about REST APIs ( Axious | JWT | Cors ), ORM ( Entity - ASP.NET | JPA - JAVA | Sequelize - Javascript ), AJAX, NodeJS ( express | Dotenv | TinyMCE | bcryptjs | slugify | express-session | EJS | html-pdf | fs )
+:v: I have a list of Udemy courses I've done and recommend: :v:
+- [NodeJS training](https://www.udemy.com/course/formacao-nodejs/) 
+- [Aprendendo Domain Driven Design (DDD) do zero](https://udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
+- [Clean Code na Prática (Código Limpo)](https://udemy.com/course/clean-code-na-pratica)
+- [Event Driven Architecture - The Complete Guide](https://udemy.com/course/event-driven-architecture-the-complete-guide)
+- [Software Design: Functional Programming in C#](https://udemy.com/course/functional-csharp)
+- [Software Development: Better Requirements Gathering Skills](https://udemy.com/course/software-requirements-gathering)
+- [Software Engineering 101: Plan and Execute Better Software](https://udemy.com/course/software-engineering-101)
 
-
-### Check out
+### Tour on my Github (_this section is outdate_) 
 
 - [First Projects](https://github.com/caiohscruz/Indices/tree/master/First%20Projects#readme)
 
